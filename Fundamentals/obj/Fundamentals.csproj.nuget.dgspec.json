@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/C-Tutorial/Workshop/Playgorund/Playgorund.csproj": {}
+    "/workspaces/C-Tutorial/Fundamentals/Fundamentals.csproj": {}
   },
   "projects": {
-    "/workspaces/C-Tutorial/Workshop/Playgorund/Playgorund.csproj": {
+    "/workspaces/C-Tutorial/Fundamentals/Fundamentals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/C-Tutorial/Workshop/Playgorund/Playgorund.csproj",
-        "projectName": "Playgorund",
-        "projectPath": "/workspaces/C-Tutorial/Workshop/Playgorund/Playgorund.csproj",
+        "projectUniqueName": "/workspaces/C-Tutorial/Fundamentals/Fundamentals.csproj",
+        "projectName": "Fundamentals",
+        "projectPath": "/workspaces/C-Tutorial/Fundamentals/Fundamentals.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/C-Tutorial/Workshop/Playgorund/obj/",
+        "outputPath": "/workspaces/C-Tutorial/Fundamentals/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
