@@ -1,0 +1,15 @@
+/workspaces/C-Tutorial/Fundamentals/obj/Debug/net8.0/Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-Tutorial/Fundamentals/obj/Debug/net8.0/Fundamentals.AssemblyInfoInputs.cache
+/workspaces/C-Tutorial/Fundamentals/obj/Debug/net8.0/Fundamentals.AssemblyInfo.cs
+/workspaces/C-Tutorial/Fundamentals/obj/Debug/net8.0/Fundamentals.csproj.CoreCompileInputs.cache
+/workspaces/C-Tutorial/Fundamentals/obj/Debug/net8.0/Fundamentals.sourcelink.json
+/workspaces/C-Tutorial/Fundamentals/bin/Debug/net8.0/Fundamentals
+/workspaces/C-Tutorial/Fundamentals/bin/Debug/net8.0/Fundamentals.deps.json
+/workspaces/C-Tutorial/Fundamentals/bin/Debug/net8.0/Fundamentals.runtimeconfig.json
+/workspaces/C-Tutorial/Fundamentals/bin/Debug/net8.0/Fundamentals.dll
+/workspaces/C-Tutorial/Fundamentals/bin/Debug/net8.0/Fundamentals.pdb
+/workspaces/C-Tutorial/Fundamentals/obj/Debug/net8.0/Fundamentals.dll
+/workspaces/C-Tutorial/Fundamentals/obj/Debug/net8.0/refint/Fundamentals.dll
+/workspaces/C-Tutorial/Fundamentals/obj/Debug/net8.0/Fundamentals.pdb
+/workspaces/C-Tutorial/Fundamentals/obj/Debug/net8.0/Fundamentals.genruntimeconfig.cache
+/workspaces/C-Tutorial/Fundamentals/obj/Debug/net8.0/ref/Fundamentals.dll
